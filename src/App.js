@@ -25,7 +25,7 @@ function App() {
 					<div className="row filters">
 						<div className="col-2" id="filtersSeparator">
 							<div id="labelFilter">
-								<span><i className="fas fa-map-marker"></i>&nbsp;Smart Filters</span>
+								<span><i className="far fa-lightbulb"></i>&nbsp;Smart Filters</span>
 							</div>
 							<div className="separator"></div>
 							<div className="filterOptions">
